@@ -23,7 +23,7 @@ Dependencies:
     - os (파일 확인용)
 
 Usage:
-    $ python 97_sentiment_and_topic_model_save_and_ynat.py
+    $ python sentiment_and_topic_model_save_and_ynat.py
     → 모델 저장, 감성 분석 테스트, YNAT 데이터셋 준비 과정을 실행
 
 Note:
