@@ -7,6 +7,7 @@ Description:
     Hugging Face Transformers의 AutoModelForSequenceClassification을 활용하여
     파인튜닝 전 텍스트 분류 모델의 성능을 평가하는 예제 코드입니다.
 
+
 Features:
     - raw 데이터셋에서 라벨 이름 추출
     - id2label, label2id 매핑 생성
