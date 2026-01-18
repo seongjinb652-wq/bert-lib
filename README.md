@@ -2,6 +2,14 @@
 
 00~09 한세트
 
+토큰 발급 절차:
+
+huggingface.co/settings/tokens 접속
+"New token" 클릭
+이름 입력 및 권한 선택 (write 권한 필요)
+토큰 복사 및 안전하게 보관
+
+
 """
 Library: KoNLP-Finetune
 Author: 성진
